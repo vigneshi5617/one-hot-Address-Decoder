@@ -1,0 +1,26 @@
+# Compile of decoder.v was successful.
+# Compile of testbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_top
+# vsim -gui work.tb_top 
+# Start time: 16:23:56 on Jan 06,2024
+# Loading work.tb_top
+# Loading work.adressDecoder
+add wave sim:/tb_top/DUT1/*
+run -all
+# Input address = 00, enable = 1 , Output line = 0001
+# Input address = 00, enable = 0 , Output line = xxxx
+# Input address = 00, enable = 1 , Output line = 0001
+# Test 1 OK
+# Input address = 01, enable = 1 , Output line = 0010
+# Test 2 OK
+# Input address = 10, enable = 1 , Output line = 0100
+# Test 3 OK
+# Input address = 11, enable = 1 , Output line = 1000
+# Test 4 OK
+# ** Note: $finish    : D:/NC State/Practice Problems/sim/testbench.v(40)
+#    Time: 100 ps  Iteration: 0  Instance: /tb_top
+# 1
+# Break in Module tb_top at D:/NC State/Practice Problems/sim/testbench.v line 40
+# End time: 16:25:21 on Jan 06,2024, Elapsed time: 0:01:25
+# Errors: 0, Warnings: 5

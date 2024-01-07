@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vadressDecoder
+Z0 !s110 1704576223
+!i10b 1
+!s100 B3lYNoMX28OeJYJWYY:aL1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Im1W;=Q05a<:bLzd:a@F4B2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/NC State/Practice Problems/sim
+w1704576037
+8D:/NC State/Practice Problems/sim/decoder.v
+FD:/NC State/Practice Problems/sim/decoder.v
+!i122 0
+L0 3 19
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1704576223.000000
+!s107 D:/NC State/Practice Problems/sim/decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NC State/Practice Problems/sim/decoder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+nadress@decoder
+vtb_top
+R0
+!i10b 1
+!s100 >U0IGn>lb_Y^ilZdaLnVb2
+R1
+II4]<]L^MjfL9BMRi4]Tg60
+R2
+R3
+w1704576092
+8D:/NC State/Practice Problems/sim/testbench.v
+FD:/NC State/Practice Problems/sim/testbench.v
+!i122 1
+L0 1 42
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/NC State/Practice Problems/sim/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/NC State/Practice Problems/sim/testbench.v|
+!i113 1
+R6
+R7
